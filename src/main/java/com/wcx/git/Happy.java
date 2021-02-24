@@ -1,5 +1,10 @@
 package com.wcx.git;
 
-public class Happy {
+import java.util.Scanner;
 
+public class Happy {
+	public static void main(String[] args) {
+		System.out.println("Git test");
+		Scanner sc = new Scanner(System.in);
+	}
 }
